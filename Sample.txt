@@ -1,3 +1,5 @@
 This is my first project
 
 Add more changes
+
+v1.2 changes made locally
